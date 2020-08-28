@@ -1,0 +1,13 @@
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\bin\Debug\netcoreapp3.1\Remove from List.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\bin\Debug\netcoreapp3.1\Remove from List.deps.json
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\bin\Debug\netcoreapp3.1\Remove from List.runtimeconfig.json
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\bin\Debug\netcoreapp3.1\Remove from List.runtimeconfig.dev.json
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\bin\Debug\netcoreapp3.1\Remove from List.dll
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\bin\Debug\netcoreapp3.1\Remove from List.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.AssemblyInfoInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.AssemblyInfo.cs
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.dll
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Remove from List\Remove from List\obj\Debug\netcoreapp3.1\Remove from List.genruntimeconfig.cache

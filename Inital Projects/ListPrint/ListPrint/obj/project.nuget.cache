@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CPrrMLe5nz1O53WHvTndlmHyQg1rhJyGv1R/E7Jt4ZxaWZgwjZ65f8aPD2Z2EY7lSJVmHlDVRyrdd53edpviyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asqua\\Documents\\GitHub\\bacs387\\ListPrint\\ListPrint\\ListPrint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asqua\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Asqua\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
