@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Asqua\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Asqua\\.nuget\\packages"
-    ]
-  }
-}

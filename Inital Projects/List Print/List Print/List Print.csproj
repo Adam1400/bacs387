@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7DA8000D-6DDD-4CD5-9DC3-B0E1C85141F6}</ProjectGuid>
+    <ProjectGuid>{D62CF93C-27EE-4151-97AC-D3D632CA0551}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Console_Menu</RootNamespace>
-    <AssemblyName>Console Menu</AssemblyName>
+    <RootNamespace>List_Print</RootNamespace>
+    <AssemblyName>List Print</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

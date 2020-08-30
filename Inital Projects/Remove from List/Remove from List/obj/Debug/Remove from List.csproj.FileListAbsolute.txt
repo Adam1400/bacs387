@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\bin\Debug\Remove from List.exe.config
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\bin\Debug\Remove from List.exe
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\bin\Debug\Remove from List.pdb
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\obj\Debug\Remove from List.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\obj\Debug\Remove from List.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\obj\Debug\Remove from List.exe
+C:\Users\Asqua\Desktop\redo\Remove from List\Remove from List\obj\Debug\Remove from List.pdb

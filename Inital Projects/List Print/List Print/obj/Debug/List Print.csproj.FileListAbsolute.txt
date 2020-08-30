@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\redo\List Print\List Print\bin\Debug\List Print.exe.config
+C:\Users\Asqua\Desktop\redo\List Print\List Print\bin\Debug\List Print.exe
+C:\Users\Asqua\Desktop\redo\List Print\List Print\bin\Debug\List Print.pdb
+C:\Users\Asqua\Desktop\redo\List Print\List Print\obj\Debug\List Print.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\redo\List Print\List Print\obj\Debug\List Print.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\redo\List Print\List Print\obj\Debug\List Print.exe
+C:\Users\Asqua\Desktop\redo\List Print\List Print\obj\Debug\List Print.pdb

@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\bin\Debug\Console Menu.exe.config
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\bin\Debug\Console Menu.exe
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\bin\Debug\Console Menu.pdb
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\obj\Debug\Console Menu.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\obj\Debug\Console Menu.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\obj\Debug\Console Menu.exe
+C:\Users\Asqua\Desktop\redo\Console Menu\Console Menu\obj\Debug\Console Menu.pdb

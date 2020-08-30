@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.InteropServices.ComTypes;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Remove_from_List
 {
@@ -37,22 +39,22 @@ namespace Remove_from_List
                 Console.WriteLine("Type a name to remove it from the list:");
                 string input = Console.ReadLine();
 
-                    foreach (string x in Names)
+                foreach (string x in Names)
+                {
+                    if (x == input)
                     {
-                        if (x == input)
-                        {
-                            Names.Remove(x);
-                            running = false;
-                            break;
-                        }
+                        Names.Remove(x);
+                        running = false;
+                        break;
                     }
+                }
                 Console.WriteLine("TRY AGAIN (Case sensitive)");
             }
 
             Console.WriteLine();
             Console.WriteLine("New List:");
             foreach (string x in Names)
-            {    
+            {
                 Console.WriteLine(x);
             }
 

@@ -1,5 +1,8 @@
 ﻿using System;
-using System.Runtime.InteropServices.ComTypes;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Console_Menu
 {
@@ -9,10 +12,11 @@ namespace Console_Menu
         {
             bool running = true;
 
-            while (running == true) { 
-            Console.WriteLine("Selct with coorisponding number:");
-            Console.WriteLine("1 => About this developer");
-            Console.WriteLine("2 => Quit");
+            while (running == true)
+            {
+                Console.WriteLine("Selct with coorisponding number:");
+                Console.WriteLine("1 => About this developer");
+                Console.WriteLine("2 => Quit");
 
                 try
                 {
@@ -42,10 +46,8 @@ namespace Console_Menu
                     }
                 }
                 catch { Console.WriteLine("Enter a number (1 or 2)"); }
-        }
-        Console.ReadKey();
-
-
+            }
+            Console.ReadKey();
 
         }
     }

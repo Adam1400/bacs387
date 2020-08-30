@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove from List", "Remove from List\Remove from List.csproj", "{8F0E3E39-0902-4818-AE04-A57559464903}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove from List", "Remove from List\Remove from List.csproj", "{81DA9F57-8282-4858-A862-F4297E5426C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8F0E3E39-0902-4818-AE04-A57559464903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F0E3E39-0902-4818-AE04-A57559464903}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F0E3E39-0902-4818-AE04-A57559464903}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F0E3E39-0902-4818-AE04-A57559464903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DA9F57-8282-4858-A862-F4297E5426C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DA9F57-8282-4858-A862-F4297E5426C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DA9F57-8282-4858-A862-F4297E5426C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DA9F57-8282-4858-A862-F4297E5426C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0014BB21-3286-47C2-A999-0AABF3B24F5E}
+		SolutionGuid = {A681B7F7-EA5B-4885-A70E-F962F0E3D36F}
 	EndGlobalSection
 EndGlobal
