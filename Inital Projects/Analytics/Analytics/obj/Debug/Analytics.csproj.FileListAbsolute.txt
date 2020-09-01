@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\bin\Debug\Analytics.exe.config
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\bin\Debug\Analytics.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\bin\Debug\Analytics.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\obj\Debug\Analytics.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\obj\Debug\Analytics.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\obj\Debug\Analytics.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Analytics\Analytics\obj\Debug\Analytics.pdb

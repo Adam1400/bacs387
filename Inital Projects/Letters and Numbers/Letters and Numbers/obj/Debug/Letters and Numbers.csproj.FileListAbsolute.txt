@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\bin\Debug\Letters and Numbers.exe.config
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\bin\Debug\Letters and Numbers.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\bin\Debug\Letters and Numbers.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\obj\Debug\Letters and Numbers.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\obj\Debug\Letters and Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\obj\Debug\Letters and Numbers.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Letters and Numbers\Letters and Numbers\obj\Debug\Letters and Numbers.pdb
