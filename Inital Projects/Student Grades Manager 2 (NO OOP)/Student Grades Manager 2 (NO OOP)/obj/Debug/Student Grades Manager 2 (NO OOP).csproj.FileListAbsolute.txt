@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\bin\Debug\Student Grades Manager 2 (NO OOP).exe.config
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\bin\Debug\Student Grades Manager 2 (NO OOP).exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\bin\Debug\Student Grades Manager 2 (NO OOP).pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\obj\Debug\Student Grades Manager 2 (NO OOP).csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\obj\Debug\Student Grades Manager 2 (NO OOP).csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\obj\Debug\Student Grades Manager 2 (NO OOP).exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades Manager 2 (NO OOP)\Student Grades Manager 2 (NO OOP)\obj\Debug\Student Grades Manager 2 (NO OOP).pdb

@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\bin\Debug\Student Grades 1 (NO OOP).exe.config
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\bin\Debug\Student Grades 1 (NO OOP).exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\bin\Debug\Student Grades 1 (NO OOP).pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\obj\Debug\Student Grades 1 (NO OOP).csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\obj\Debug\Student Grades 1 (NO OOP).csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\obj\Debug\Student Grades 1 (NO OOP).exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Student Grades 1 (NO OOP)\Student Grades 1 (NO OOP)\obj\Debug\Student Grades 1 (NO OOP).pdb
