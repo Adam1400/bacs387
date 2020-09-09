@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\bin\Debug\lettersandnumbers2.exe.config
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\bin\Debug\lettersandnumbers2.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\bin\Debug\lettersandnumbers2.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\obj\Debug\lettersandnumbers2.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\obj\Debug\lettersandnumbers2.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\obj\Debug\lettersandnumbers2.exe
+C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\lettersandnumbers2\lettersandnumbers2\obj\Debug\lettersandnumbers2.pdb
