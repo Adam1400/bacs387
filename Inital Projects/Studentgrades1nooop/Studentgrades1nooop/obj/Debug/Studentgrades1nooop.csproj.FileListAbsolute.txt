@@ -1,7 +1,0 @@
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\bin\Debug\Studentgrades1nooop.exe.config
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\bin\Debug\Studentgrades1nooop.exe
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\bin\Debug\Studentgrades1nooop.pdb
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\obj\Debug\Studentgrades1nooop.csprojAssemblyReference.cache
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\obj\Debug\Studentgrades1nooop.csproj.CoreCompileInputs.cache
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\obj\Debug\Studentgrades1nooop.exe
-C:\Users\Asqua\Desktop\School\BACS387\Inital Projects\Studentgrades1nooop\Studentgrades1nooop\obj\Debug\Studentgrades1nooop.pdb

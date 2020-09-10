@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\bin\Debug\OOP Exercise 1.exe.config
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\bin\Debug\OOP Exercise 1.exe
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\bin\Debug\OOP Exercise 1.pdb
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\obj\Debug\OOP Exercise 1.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\obj\Debug\OOP Exercise 1.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\obj\Debug\OOP Exercise 1.exe
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 1\OOP Exercise 1\obj\Debug\OOP Exercise 1.pdb
