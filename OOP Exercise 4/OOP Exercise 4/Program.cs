@@ -7,20 +7,21 @@ using System.Threading.Tasks;
 namespace OOP_Exercise_4
 {
     //PLAYERS
-    abstract class Players
+    class Players
     {
-        public abstract string AssignRole();
+        public string Role;
         public string Name;
         public int Age;
-        public Players(string name, int age)
+        public Players(string role, string name, int age)
         {
+            Role = role;
             Name = name;
             Age = age;
         }
 
         public string getRole()
         {
-            return AssignRole();
+            return Role;
         }
 
         public string getName()
@@ -77,21 +78,21 @@ namespace OOP_Exercise_4
             List<Players> roster = new List<Players>();
 
             //Players
-            roster.Add(new Coach("Vic Fangio", 62));
-            roster.Add(new QB("Drew Lock", 23));
-            roster.Add(new RB("Melvin Gordon", 27));
-            roster.Add(new RB("Phillip Lindsay", 28));
-            roster.Add(new WR("Cortland Sutton", 30));
-            roster.Add(new WR("Tyrie Cleveland", 32));
-            roster.Add(new TE("Noah Fant", 25));
-            roster.Add(new CB("A.J. Bouye", 26));
-            roster.Add(new CB("Bryce Callahan", 27));
-            roster.Add(new Safety("Justan Simmons", 29));
-            roster.Add(new Safety("Kareem Jackson", 26));
-            roster.Add(new DT("Kyle Peko", 32));
-            roster.Add(new DE("Shelby Harris", 33));
-            roster.Add(new LB("Bradley Chubb", 35));
-            roster.Add(new Kicker("Sam Martin", 23));
+            roster.Add(new Players("Coach","Vic Fangio", 62));
+            roster.Add(new Players("Quarterback","Drew Lock", 23));
+            roster.Add(new Players("Running back ", "Melvin Gordon", 27));
+            roster.Add(new Players("Running back", "Phillip Lindsay", 28));
+            roster.Add(new Players("Wide receiver", "Cortland Sutton", 30));
+            roster.Add(new Players("Wide receiver", "Tyrie Cleveland", 32));
+            roster.Add(new Players("Tight end", "Noah Fant", 25));
+            roster.Add(new Players("Corner Backs","A.J. Bouye", 26));
+            roster.Add(new Players("Corner Backs", "Bryce Callahan", 27));
+            roster.Add(new Players("Saftey", "Justan Simmons", 29));
+            roster.Add(new Players("Saftey", "Kareem Jackson", 26));
+            roster.Add(new Players("Defensive Tackle", "Kyle Peko", 32));
+            roster.Add(new Players("Defensive End", "Shelby Harris", 33));
+            roster.Add(new Players("Line Backer", "Bradley Chubb", 35));
+            roster.Add(new Players("Kicker", "Sam Martin", 23));
 
             //Team
             Team Broncos = new Team("Broncos", "Denver", roster);
@@ -104,127 +105,4 @@ namespace OOP_Exercise_4
 
         }
     }
-
-    //redundant implementation
-    //COACH
-    class Coach : Players
-    {
-        public Coach(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Coach";
-        }
-    }
-
-    //QB
-    class QB : Players
-    {
-        public QB(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Quarterback";
-        }
-    }
-
-    //Running back
-    class RB : Players
-    {
-        public RB(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Running back";
-        }
-    }
-
-    //Wide Reciver
-    class WR : Players
-    {
-        public WR(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Wide Reciver";
-        }
-    }
-
-    //Tight end
-    class TE : Players
-    {
-        public TE(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Tight End";
-        }
-    }
-
-    //Corner back
-    class CB : Players
-    {
-        public CB(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Corner back";
-        }
-    }
-
-    //Safety
-    class Safety : Players
-    {
-        public Safety(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Safety";
-        }
-    }
-
-    //Defensive Tackele
-    class DT : Players
-    {
-        public DT(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Defensive Tackle";
-        }
-    }
-
-    //Defensive End
-    class DE : Players
-    {
-        public DE(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Defensive End";
-        }
-    }
-
-    //Line Backer
-    class LB : Players
-    {
-        public LB(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Line Backer";
-        }
-    }
-
-    //Kicker
-    class Kicker : Players
-    {
-        public Kicker(string name, int age) : base(name, age) { }
-
-        public override string AssignRole()
-        {
-            return "Kicker";
-        }
-    }
-
 }
