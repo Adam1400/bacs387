@@ -1,0 +1,12 @@
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\bin\Debug\netcoreapp3.1\Entity Framework Test.exe
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\bin\Debug\netcoreapp3.1\Entity Framework Test.deps.json
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\bin\Debug\netcoreapp3.1\Entity Framework Test.runtimeconfig.json
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\bin\Debug\netcoreapp3.1\Entity Framework Test.runtimeconfig.dev.json
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\bin\Debug\netcoreapp3.1\Entity Framework Test.dll
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\bin\Debug\netcoreapp3.1\Entity Framework Test.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\obj\Debug\netcoreapp3.1\Entity Framework Test.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\obj\Debug\netcoreapp3.1\Entity Framework Test.AssemblyInfoInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\obj\Debug\netcoreapp3.1\Entity Framework Test.AssemblyInfo.cs
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\obj\Debug\netcoreapp3.1\Entity Framework Test.dll
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\obj\Debug\netcoreapp3.1\Entity Framework Test.pdb
+C:\Users\Asqua\Desktop\School\BACS387\Entity Framework Test\Entity Framework Test\obj\Debug\netcoreapp3.1\Entity Framework Test.genruntimeconfig.cache

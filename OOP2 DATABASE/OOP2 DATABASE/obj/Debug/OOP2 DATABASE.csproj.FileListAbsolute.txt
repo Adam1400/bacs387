@@ -1,0 +1,7 @@
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\bin\Debug\OOP2 DATABASE.exe.config
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\bin\Debug\OOP2 DATABASE.exe
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\bin\Debug\OOP2 DATABASE.pdb
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\obj\Debug\OOP2 DATABASE.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\obj\Debug\OOP2 DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\obj\Debug\OOP2 DATABASE.exe
+C:\Users\Asqua\Desktop\School\BACS387\OOP2 DATABASE\OOP2 DATABASE\obj\Debug\OOP2 DATABASE.pdb
