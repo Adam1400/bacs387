@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bz8S5ucdX/zblGR39ZjV+vEIoqZdKlMrlKzdeivcMMWWtOyt0RvyOS0IHa82YbrDHHU2Uy3d8daRDyr3lckFgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asqua\\Desktop\\School\\BACS387\\OOP Exercise 7\\OOP Exercise 7\\OOP Exercise 7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asqua\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Asqua\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
