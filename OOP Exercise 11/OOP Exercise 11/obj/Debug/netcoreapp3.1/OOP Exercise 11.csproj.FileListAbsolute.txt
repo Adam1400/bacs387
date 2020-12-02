@@ -1,0 +1,13 @@
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.AssemblyInfoInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.AssemblyInfo.cs
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\bin\Debug\netcoreapp3.1\OOP Exercise 11.exe
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\bin\Debug\netcoreapp3.1\OOP Exercise 11.deps.json
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\bin\Debug\netcoreapp3.1\OOP Exercise 11.runtimeconfig.json
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\bin\Debug\netcoreapp3.1\OOP Exercise 11.runtimeconfig.dev.json
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\bin\Debug\netcoreapp3.1\OOP Exercise 11.dll
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\bin\Debug\netcoreapp3.1\OOP Exercise 11.pdb
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.dll
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.pdb
+C:\Users\Asqua\Desktop\School\BACS387\OOP Exercise 11\OOP Exercise 11\obj\Debug\netcoreapp3.1\OOP Exercise 11.genruntimeconfig.cache
