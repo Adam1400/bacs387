@@ -1,0 +1,13 @@
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\bin\Debug\netcoreapp3.1\FinalQ1.exe
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\bin\Debug\netcoreapp3.1\FinalQ1.deps.json
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\bin\Debug\netcoreapp3.1\FinalQ1.runtimeconfig.json
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\bin\Debug\netcoreapp3.1\FinalQ1.runtimeconfig.dev.json
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\bin\Debug\netcoreapp3.1\FinalQ1.dll
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\bin\Debug\netcoreapp3.1\FinalQ1.pdb
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.csprojAssemblyReference.cache
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.AssemblyInfoInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.AssemblyInfo.cs
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.csproj.CoreCompileInputs.cache
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.dll
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.pdb
+C:\Users\Asqua\Desktop\School\BACS387\FinalQ1\FinalQ1\obj\Debug\netcoreapp3.1\FinalQ1.genruntimeconfig.cache
